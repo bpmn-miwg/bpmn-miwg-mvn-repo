@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.omg.bpmn.miwg</groupId>
+  <artifactId>analysis-tool-api</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151028124210</lastUpdated>
+  </versioning>
+</metadata>

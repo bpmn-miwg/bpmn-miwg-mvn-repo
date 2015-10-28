@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.omg.bpmn.miwg</groupId>
+  <artifactId>xml-compare-tool</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151028124211</lastUpdated>
+  </versioning>
+</metadata>

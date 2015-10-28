@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.omg.bpmn.miwg</groupId>
+  <artifactId>tools</artifactId>
+  <version>0.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20151028.124208</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20151028124208</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.3-20151028.124208-1</value>
+        <updated>20151028124208</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

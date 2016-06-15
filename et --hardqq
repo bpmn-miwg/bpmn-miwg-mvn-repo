@@ -1,0 +1,175 @@
+[33mcommit 58b3a25fb2d95947f49bc52ba59aab243267cd80[m
+Merge: 06c7164 c01e269
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Jun 15 21:23:37 2016 +0100
+
+    Publish latest test suite
+
+[33mcommit 06c716419b49a2b85c7341cdb1b52d70536892f0[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Jun 15 21:22:45 2016 +0100
+
+    Publish latest test suite
+
+[33mcommit 30b68e740bf184825465271bbc222afa048a7c97[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Jun 15 20:56:38 2016 +0100
+
+    Publish latest test suite
+
+[33mcommit c364e8b82bea23a23dfdb65d55fa82e477b83b95[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Jun 15 20:43:44 2016 +0100
+
+    Publish latest test suite
+
+[33mcommit c01e269f4389a70b3a31f0135c5a2a9f8097ba73[m
+Author: Simon Ringuette <sringuette@trisotech.com>
+Date:   Wed Jun 15 13:15:58 2016 -0400
+
+    Test suite 0.4-SNAPSHOT
+
+[33mcommit 9964cf962ab62330f14515e3f3af6133a4936597[m
+Author: Simon Ringuette <sringuette@trisotech.com>
+Date:   Wed Jun 15 13:10:51 2016 -0400
+
+    Version 0.4 of the miwg-tools
+
+[33mcommit 06f277089352b5ac824e0d47dd951544dc142bc9[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Jun 15 17:05:25 2016 +0100
+
+    Publish latest test suite
+
+[33mcommit 2358db5210c560e085d0d67fc54dbe02644b3952[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Jun 15 14:11:50 2016 +0100
+
+    Publish latest test suite
+
+[33mcommit 1bfd3aae2aadbea8ed28c31007ad5a5026ab6a8a[m
+Merge: bc124f5 261aa0c
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Jun 15 14:05:20 2016 +0100
+
+    Merge branch 'master' of https://github.com/bpmn-miwg/bpmn-miwg-mvn-repo
+
+[33mcommit bc124f5ae1e5d0f277068eae37a818c5acd7ddba[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Jun 15 13:39:40 2016 +0100
+
+    Publish latest test suite
+
+[33mcommit 6f2e5492a5eea95b16e80f3d0785fd1232689c6d[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Thu Apr 14 09:15:27 2016 +0100
+
+    Publish latest test suite
+
+[33mcommit 261aa0c0ad55c8789e959e0922bb93850167796e[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Feb 10 15:43:10 2016 +0000
+
+    Additional test submission from Esteco
+
+[33mcommit 3fe4cc8f72ba834a09a6618a133c98a3cd18d203[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Jan 27 15:40:10 2016 +0000
+
+    Publish latest test suite
+
+[33mcommit b44ca1f1b6af13264e64365e5366e507f18caab2[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Tue Dec 1 22:39:13 2015 +0000
+
+    Publish latest test suite
+
+[33mcommit 71de4fba7a5fc47974f247489a794c074902fa1f[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Tue Dec 1 21:05:07 2015 +0000
+
+    Publish latest test suite
+
+[33mcommit dd254277f00e571d828ab0425b015b54456f904d[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Tue Dec 1 20:24:43 2015 +0000
+
+    Publish latest build artefacts
+
+[33mcommit e642680d9c3aacd664c0f2eec11e855d7a6a1694[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Tue Dec 1 10:28:28 2015 +0000
+
+    Publish latest build artefacts
+
+[33mcommit 6e2ca90968d88bc31aefd61f0f23211b21d52eac[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Sun Nov 29 21:20:31 2015 +0000
+
+    Publish latest build artefacts
+
+[33mcommit 6485c8135ba769c36c059cb485b01853f52a7ded[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Nov 25 17:48:28 2015 +0000
+
+    Publish latest test suite
+
+[33mcommit f57b2050db2bb8a6f761c201dc9ad542d83f048b[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Nov 25 16:28:53 2015 +0000
+
+    Publish latest test suite
+
+[33mcommit 0f3c1ed7e2f2fa4cff8d810d31a953cfd40b53da[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Tue Nov 24 11:32:12 2015 +0000
+
+    Publish latest test suite
+
+[33mcommit b86787221e09a867765a8578450dcfd599cd38ae[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Fri Nov 20 12:26:21 2015 +0000
+
+    Publish latest test suite
+
+[33mcommit 3d5802a7a54ae236d9a00c8d8d8c683ac7c22826[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Nov 4 15:21:51 2015 +0000
+
+    Publish latest test suite
+
+[33mcommit 23cfc24a3beadc5410dcba35b77661e6624304e4[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Nov 4 15:00:28 2015 +0000
+
+    Publish latest test suite
+
+[33mcommit c1c0db559ed9e24a82fa3f28bb227ebd37e463d5[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Thu Oct 29 13:12:05 2015 +0000
+
+    Publish latest test suite
+
+[33mcommit 477b69b0b6b2e5bbed5535f7dea0dace9e802b63[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Oct 28 20:06:01 2015 +0000
+
+    Publish latest build artefacts
+
+[33mcommit ff654bb84c026a2de1769da2baa6d8d3956cf0e0[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Oct 28 13:24:21 2015 +0000
+
+    deploy build to mvn repo
+
+[33mcommit af658b3150b08f3803bd2cd0574781c9c3f2d2e4[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Oct 28 12:48:09 2015 +0000
+
+    test repo
+
+[33mcommit 74c6e37fb206122e07964e5a9bff09525ccd9734[m
+Author: Tim Stephenson <tim@knowprocess.com>
+Date:   Wed Oct 28 12:23:30 2015 +0000
+
+    Initial commit

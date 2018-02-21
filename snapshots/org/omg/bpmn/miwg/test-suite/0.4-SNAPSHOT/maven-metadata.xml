@@ -5,32 +5,32 @@
   <version>0.4-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180214.154659</timestamp>
-      <buildNumber>82</buildNumber>
+      <timestamp>20180221.042417</timestamp>
+      <buildNumber>83</buildNumber>
     </snapshot>
-    <lastUpdated>20180214154659</lastUpdated>
+    <lastUpdated>20180221042417</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.4-20180214.154659-82</value>
-        <updated>20180214154659</updated>
+        <value>0.4-20180221.042417-83</value>
+        <updated>20180221042417</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.4-20180214.154659-82</value>
-        <updated>20180214154659</updated>
+        <value>0.4-20180221.042417-83</value>
+        <updated>20180221042417</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>reference-only</classifier>
         <extension>jar</extension>
-        <value>0.4-20180214.154659-82</value>
-        <updated>20180214154659</updated>
+        <value>0.4-20180221.042417-83</value>
+        <updated>20180221042417</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>site</classifier>
         <extension>jar</extension>
-        <value>0.4-20180214.154659-82</value>
-        <updated>20180214154659</updated>
+        <value>0.4-20180221.042417-83</value>
+        <updated>20180221042417</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

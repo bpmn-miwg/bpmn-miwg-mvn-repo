@@ -5,32 +5,32 @@
   <version>0.4-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20210205.042641</timestamp>
-      <buildNumber>553</buildNumber>
+      <timestamp>20210206.042630</timestamp>
+      <buildNumber>554</buildNumber>
     </snapshot>
-    <lastUpdated>20210205042641</lastUpdated>
+    <lastUpdated>20210206042630</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.4-20210205.042641-553</value>
-        <updated>20210205042641</updated>
+        <value>0.4-20210206.042630-554</value>
+        <updated>20210206042630</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.4-20210205.042641-553</value>
-        <updated>20210205042641</updated>
+        <value>0.4-20210206.042630-554</value>
+        <updated>20210206042630</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>reference-only</classifier>
         <extension>jar</extension>
-        <value>0.4-20210205.042641-553</value>
-        <updated>20210205042641</updated>
+        <value>0.4-20210206.042630-554</value>
+        <updated>20210206042630</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>site</classifier>
         <extension>jar</extension>
-        <value>0.4-20210205.042641-553</value>
-        <updated>20210205042641</updated>
+        <value>0.4-20210206.042630-554</value>
+        <updated>20210206042630</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
